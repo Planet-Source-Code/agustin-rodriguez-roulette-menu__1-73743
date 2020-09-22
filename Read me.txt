@@ -1,0 +1,21 @@
+Roulette Menu it is a nice 3D Program for your Desktop.
+Allows choise the image and action for each Icone.
+4 Roulette types, with Zoom and Stretch features.
+
+MOUSE RIGHT BUTTOM to Show Popup Menu
+MOUSE LEFT BUTTON and DRAG to MOVE
+MOUSE WHEEL or UP/DOWN Keys to TURN
++ or - KEY with SHIFT to Vertical Stretch
++ or - KEY with CTRL to Horizontal Stretch 
++ or - KEY with SHIFT+CTRL to ZOOM
+DOUBLE CLICK on the ICONE to Run One Program, Send an E-Mail or Open an URL
+
+You can have several groups in same time.
+To make this: 
+- Make the Executable file
+- Copy the EXE file and the BAG file
+- Paste them as new files
+- Rename them preserving the extensions
+     Eg: MyNewGroup1.EXE and MyNewGroup1.BAG
+- Run the EXE files individually
+
